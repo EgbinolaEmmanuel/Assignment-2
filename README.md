@@ -1,2 +1,2 @@
 # Assignment-2
-Alt School First Assignment - Second Semester
+Alt School Second Assignment - First Semester
